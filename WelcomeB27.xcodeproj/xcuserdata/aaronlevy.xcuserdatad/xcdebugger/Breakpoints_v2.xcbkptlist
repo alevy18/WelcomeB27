@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F7AA7939-991B-4AA7-9C4A-392C2F61930D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2282AE8C-4192-4BDA-B07C-9322627EC715"
+            shouldBeEnabled = "Yes"
+            nameForDebugger = "breakpoint1"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WelcomeB27/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "7">
+            <Actions>
+               <BreakpointActionProxy
+                  ActionExtensionID = "Xcode.BreakpointAction.DebuggerCommand">
+                  <ActionContent
+                     consoleCommand = "">
+                  </ActionContent>
+               </BreakpointActionProxy>
+            </Actions>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "87382B7D-BBE7-45E3-8090-B799524C3D01"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WelcomeB27/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "87382B7D-BBE7-45E3-8090-B799524C3D01 - ef160785db242762"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WelcomeB27.ViewController.__deallocating_deinit"
+                  moduleName = "WelcomeB27"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aaronlevy/Desktop/WelcomeB27/WelcomeB27/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "87382B7D-BBE7-45E3-8090-B799524C3D01 - 800d71585312cb28"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WelcomeB27.ViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; WelcomeB27.ViewController"
+                  moduleName = "WelcomeB27"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aaronlevy/Desktop/WelcomeB27/WelcomeB27/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "87382B7D-BBE7-45E3-8090-B799524C3D01 - 26c736cfa23c0b3f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WelcomeB27.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; WelcomeB27.ViewController"
+                  moduleName = "WelcomeB27"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aaronlevy/Desktop/WelcomeB27/WelcomeB27/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "87382B7D-BBE7-45E3-8090-B799524C3D01 - 7b60fa5e39b00b9b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WelcomeB27.ViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;WelcomeB27.ViewController&gt;"
+                  moduleName = "WelcomeB27"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aaronlevy/Desktop/WelcomeB27/WelcomeB27/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "87382B7D-BBE7-45E3-8090-B799524C3D01 - 4382b5a935f85988"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WelcomeB27.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;WelcomeB27.ViewController&gt;"
+                  moduleName = "WelcomeB27"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aaronlevy/Desktop/WelcomeB27/WelcomeB27/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "148">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

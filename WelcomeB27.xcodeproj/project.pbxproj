@@ -7,12 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		348B14F5260252D80077BF19 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 348B14F4260252D80077BF19 /* AppDelegate.swift */; };
 		348B14F7260252D80077BF19 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 348B14F6260252D80077BF19 /* SceneDelegate.swift */; };
 		348B14F9260252D80077BF19 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 348B14F8260252D80077BF19 /* ViewController.swift */; };
 		348B14FC260252D80077BF19 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 348B14FA260252D80077BF19 /* Main.storyboard */; };
 		348B14FE260252DB0077BF19 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 348B14FD260252DB0077BF19 /* Assets.xcassets */; };
 		348B1501260252DB0077BF19 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 348B14FF260252DB0077BF19 /* LaunchScreen.storyboard */; };
+		348B150E26025CD10077BF19 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 348B14F4260252D80077BF19 /* AppDelegate.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -137,8 +137,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				348B150E26025CD10077BF19 /* AppDelegate.swift in Sources */,
 				348B14F9260252D80077BF19 /* ViewController.swift in Sources */,
-				348B14F5260252D80077BF19 /* AppDelegate.swift in Sources */,
 				348B14F7260252D80077BF19 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -288,6 +288,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = WelcomeB27/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -306,6 +307,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = WelcomeB27/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
